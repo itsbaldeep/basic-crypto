@@ -1,0 +1,22 @@
+{
+  "name": "basic-crypto",
+  "version": "1.0.0",
+  "description": "A crypto package with basic functions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "crypto",
+    "encryption",
+    "decryption",
+    "cipher",
+    "decipher",
+    "hash",
+    "hmac",
+    "salt"
+  ],
+  "author": "Baldeep Singh",
+  "license": "MIT"
+}
